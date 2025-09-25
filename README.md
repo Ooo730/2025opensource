@@ -1,4 +1,3 @@
 vi README.md
-# 2025 OpenSource Software
-git aedd README.md
+# 2025 OpenSource Software (09.18)
 
